@@ -1,9 +1,16 @@
 1. Title: Managing Customer Churn in the Banking Sector Using Machine Learning Techniques:
 A case study of Portuguese Banking.
 
-2. Sources
-   Created by: Paulo Cortez (Univ. Minho) and Sérgio Moro (ISCTE-IUL) @ 2012
-   Adams, M. (2021). Labeled datasets in supervised machine learning. Journal of Data Science, 28(3), pp.45–59.
+2. Abstract:
+   The banking industry plays a vital role in a country’s economy. Banks strive to perform better in the competitive banking industry with their viable products and services.
+   To improve their performance, data analysis is inevitable. By understanding customer behavior, banks can cater customized products and services to sustain their customer base and increase profitability.
+   Machine learning can be leveraged to predict the potential responses of a customer. This can be of great help to the Customer Relationship Management department to devise strategies to increase success rates. 
+   The current study focuses on predicting customer churning for the term deposit product. From a Portuguese marketing campaign involving bank deposit subscriptions, real-world data were gathered. 
+   Finding a model that can explain a contact's success or whether a client subscribes to a deposit is the business's aim. A better use of the available resources (such as human effort, phone calls, and time) and the selection of 
+   a high-quality and affordable group of prospective buyers are all advantages of using such a strategy to boost campaign efficiency.  All the possible factors affecting the subscription are studied, and their impact is evaluated.
+   The critical factors are then chosen to build models. The outcome yes or no, qualifies to be a classifier problem that can be trained using Supervised Machine Learning. Three models  Support Vector Machine, Random Forest and
+   Decision tree are trained, tested, and evaluated for accuracy to find the best suitable model. 
+   
    
 3. Past Usage:
 
